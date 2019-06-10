@@ -25,3 +25,4 @@ Process (WP + Sage):
 - Add `site_url` in javascript variable to head
 - Add Angular App Folder
 - Import angular app in `main.js`
+- Build the site (npm run build)
